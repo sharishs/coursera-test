@@ -1,0 +1,95 @@
+
+h1{
+
+
+	text-align: center;
+
+	 
+}
+
+.div1>.box{
+   width: 100px;
+   height: 30px;
+   background-color: pink;
+   float: right;
+   border: 2px solid black;
+}
+.div2>.box1{
+   width: 100px;
+   height: 30px;
+   background-color: red;
+   float: right;
+   border: 2px solid black;
+}
+.div3>.box2{
+   width: 100px;
+   height: 30px;
+   background-color: yellow;
+   float: right;
+   border: 2px solid black;
+}
+.div1{
+width: 350px;
+height: 200px;
+background-color: teal;
+float: left;
+border: 2px solid black;
+
+margin-left:100px;
+margin-top:10px;
+position: relative;
+}
+.div2{
+width: 350px;
+height: 200px;
+background-color: teal;
+float: left;
+border: 2px solid black;
+
+margin-left:100px;
+margin-top:10px;
+position: relative;
+}
+.div3{
+width: 350px;
+height: 200px;
+background-color: teal;
+float: left;
+border: 2px solid black;
+
+margin-left:100px;
+margin-top:10px;
+position: relative;
+
+}
+.div1>.box>h2{
+text-align: center;
+color:black ;
+font-size: 20px;
+margin-top: 2px;
+}
+.div2>.box1>h3{
+text-align: center;
+color: white;
+font-size: 20px;
+margin-top: 2px;
+}
+.div3>.box2>h4{
+text-align: center;
+color: black;
+font-size: 20px;
+margin-top: 2px;
+}
+.div1>h9{
+	color: white;
+font-size: 16px;
+margin-top: 30px;
+}
+.div2>h7{
+	color: white;
+ font-size: 16px;
+}
+.div3>h8{
+	color: white;
+ font-size: 16px;
+}
